@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋
 
 <!--
 **shawon2210/shawon2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 💫 About Me:
+-->💫 About Me:
 🔭 Full Stack Developer (React, Django) building scalable web applications  <br>🌱 Expanding skills in Machine Learning, System Design & Cloud  <br>🤝 Open to internships and entry-level software engineering roles  <br>💬 Skilled in REST APIs, frontend/backend development, and problem solving  <br>⚡ Passionate about delivering efficient, real-world software solutions  
 
 
