@@ -1,20 +1,26 @@
-# Hi there 👋
+# 👋 Hi, I'm Md Shawon Molla
+Full Stack Developer & AI Engineer from Dhaka, Bangladesh
+I build scalable web applications and AI-powered solutions using modern technologies. Currently working at Innofast Technologies Ltd.
+I specialize in creating mobile-first, user-centric applications for emerging markets.
 
-<!--
-**shawon2210/shawon2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 What I Do
+Full-stack development with React.js, Node.js, FastAPI, and MongoDB
+AI engineering with Python
+Building digital solutions for traditional businesses in Bangladesh
+Mobile-first design with Bengali locale support
 
-Here are some ideas to get you started:
+# 💼 Recent Work
+I recently shipped a Pharmacy Management System designed for Bangladesh's 25,000+ pharmacies still operating on paper. The project features:
+Color-coded dues aging system inspired by TallyKhata UX
+Real-time inventory and sales dashboard
+JWT-based authentication with role-based access
+Tech stack: React 19, Vite, Node.js, FastAPI, MongoDB, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->💫 About Me:
-🔭 Full Stack Developer (React, Django) building scalable web applications  <br>🌱 Expanding skills in Machine Learning, System Design & Cloud  <br>🤝 Open to internships and entry-level software engineering roles  <br>💬 Skilled in REST APIs, frontend/backend development, and problem solving  <br>⚡ Passionate about delivering efficient, real-world software solutions  
+# 🌟 Open to Remote Opportunities
+I'm actively seeking remote positions where I can contribute my expertise in building impactful web applications.
+📍 Location: Dhaka, Bangladesh
+
+# 💼 Experience : Frontend Developer at Innofast Technologies Ltd.
 
 
 # 💻 Tech Stack:
