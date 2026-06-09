@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Md Shawon Molla
 
+
 Full Stack Developer & AI Engineer based in Dhaka, Bangladesh, with a strong focus on building scalable web applications and intelligent digital solutions. I specialize in developing high-performance, user-centric products using modern technologies and best engineering practices.
 Currently working at Innofast Technologies Ltd, where I contribute to the development of mobile-first platforms and AI-driven applications designed for emerging markets.
 
