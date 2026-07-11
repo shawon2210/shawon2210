@@ -37,7 +37,7 @@ I build scalable web applications and intelligent digital solutions for emerging
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height:40px; width:auto;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="height:40px; width:auto;" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height:40px; width:auto;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="SQL" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="height:40px; width:auto;" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="height:40px; width:auto;" />
 </div>
 
@@ -110,29 +110,6 @@ My goal is to create impactful software solutions that combine **performance**, 
 
 ---
 
-## 💼 Recent Work
-
-### Pharmacy Management System – Bangladesh
-
-I recently shipped a **Pharmacy Management System** designed for Bangladesh’s **25,000+ pharmacies** that still operate on paper.
-
-**Key Features**
-
-- Color-coded **dues aging system** inspired by **TallyKhata** UX  
-- Real-time **inventory** and **sales dashboard**  
-- **JWT-based authentication** with **role-based access control**  
-
-**Tech Stack**
-
-- React 19  
-- Vite  
-- Node.js  
-- FastAPI  
-- MongoDB  
-- Tailwind CSS  
-
----
-
 ## 🌟 Open to Remote Opportunities
 
 I’m actively seeking **remote positions** where I can contribute my expertise in building **impactful web applications** and **AI-driven solutions**.
@@ -157,9 +134,9 @@ Dhaka, Bangladesh
 
 You can add your links here, for example:
 
-- ✉️ Email: `your-email@example.com`  
-- 🔗 LinkedIn: `[Your LinkedIn Profile]`  
-- 🌐 Portfolio: `[Your Portfolio / Website]`  
+- ✉️ Email: `shawonshanto104141@gmail.com`  
+- 🔗 LinkedIn: `https://www.linkedin.com/in/md-shawon-molla-2a3877293`  
+- 🌐 Portfolio: `oddboundary.lovable.app`  
 
 <div align="center">
 
