@@ -29,31 +29,76 @@ I build scalable web applications and intelligent digital solutions for emerging
 
 ## 💻 Tech Stack
 
-**Frontend**
+<div align="center">
 
-- React 19  
-- Vite  
-- Tailwind CSS  
-- Mobile-first, responsive UI/UX
+<!-- Languages -->
+<b>Languages</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 640px; margin: 8px auto;">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="SQL" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="height:40px; width:auto;" />
+</div>
 
-**Backend & APIs**
+<!-- Frontend -->
+<b>Frontend</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: 8px auto;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="height:40px; width:auto;" />
+</div>
 
-- Node.js  
-- FastAPI  
-- REST API design  
-- Scalable backend architecture  
+<!-- Backend -->
+<b>Backend</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: 8px auto;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" style="height:40px; width:auto;" />
+</div>
 
-**Database & Auth**
+<!-- Database & ORM -->
+<b>Database & ORM</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: 8px auto;">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" style="height:40px; width:auto;" />
+  <!-- Prisma, Mongoose, SQLAlchemy, pgvector, etc. can be represented via badges or text below -->
+</div>
 
-- MongoDB  
-- JWT-based authentication  
-- Role-based access control  
+<!-- AI / ML -->
+<b>AI / ML</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: 8px auto;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="height:40px; width:auto;" />
+  <!-- Other: LangChain, RAG, OpenAI, Gemini, Hugging Face, YOLO, Florence-2 via badges -->
+</div>
 
-**AI & Automation**
+<!-- DevOps & Cloud -->
+<b>DevOps & Cloud</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: 8px auto;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="height:40px; width:auto;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="height:40px; width:auto;" />
+</div>
 
-- Python  
-- AI-driven applications  
-- Automation solutions  
+<!-- Testing & Collaboration (badges instead of icons) -->
+<b>Testing & Collaboration</b><br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 720px; margin: 8px auto;">
+  <img src="https://img.shields.io/badge/Vitest-Testing-6E4FFF?style=flat-square" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Jest-Testing-C21325?style=flat-square" alt="Jest" />
+  <img src="https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=flat-square" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-blue?style=flat-square" alt="Agile / Scrum" />
+  <img src="https://img.shields.io/badge/Git-GitHub-000000?style=flat-square" alt="Git / GitHub" />
+  <img src="https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=flat-square" alt="Jira" />
+</div>
+
+</div>
 
 ---
 
