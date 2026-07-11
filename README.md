@@ -1,106 +1,123 @@
 <!--
   GitHub Profile README for @shawon2210
-  Designed for a clean, modern, and professional look.
+  Premium, developer-focused layout.
 -->
 
 <div align="center">
 
-# 👋 Hi, I’m Md Shawon Molla  
+# 👋 Hi, I'm Md Shawon Molla  
 **Full Stack Developer & AI Engineer**  
-📍 Dhaka, Bangladesh · 🌐 Open to remote opportunities
 
-I build scalable web applications and intelligent digital solutions with a focus on performance, accessibility, and real-world impact.
+📍 Dhaka, Bangladesh · 🌐 Open to Remote Opportunities  
+
+I build scalable web applications and intelligent digital solutions for emerging markets, with a strong focus on performance, accessibility, and user experience.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Core Expertise
 
-I’m a **Full Stack Developer & AI Engineer** based in **Dhaka, Bangladesh**, with a strong focus on building **scalable web applications** and **intelligent digital solutions**. I specialize in developing **high-performance, user-centric products** using modern technologies and best engineering practices.
-
-Currently, I work at **Innofast Technologies Ltd**, where I contribute to the development of **mobile-first platforms** and **AI-driven applications** designed for emerging markets.
+- Full-stack application development with **React.js**, **Node.js**, **FastAPI**, and **MongoDB**  
+- **AI and automation solutions** using **Python**  
+- **REST API design**, backend architecture, and **scalable system development**  
+- **Mobile-first** and responsive UI/UX implementation  
+- **Localization** and Bengali language support for regional users  
+- **Digital transformation solutions** for traditional and growing businesses  
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
+**Frontend**
 
-**Frontend**  
-`React 19` `Vite` `Tailwind CSS` `Responsive UI/UX`
+- React 19  
+- Vite  
+- Tailwind CSS  
+- Mobile-first, responsive UI/UX
 
-**Backend**  
-`Node.js` `FastAPI` `REST API Design` `Backend Architecture`
+**Backend & APIs**
 
-**Database & DevOps**  
-`MongoDB` `JWT Auth` `Role-Based Access`
+- Node.js  
+- FastAPI  
+- REST API design  
+- Scalable backend architecture  
 
-**AI & Automation**  
-`Python` `AI Solutions` `Automation`
+**Database & Auth**
 
-</div>
+- MongoDB  
+- JWT-based authentication  
+- Role-based access control  
 
-> 💡 I focus on **performance**, **scalability**, and **intuitive design**, combining strong engineering practices with a product mindset.
+**AI & Automation**
+
+- Python  
+- AI-driven applications  
+- Automation solutions  
 
 ---
 
-## 🌟 What Drives Me
+## 💡 What Drives Me
 
-- Solving **real-world problems** through technology  
-- Building products that improve **accessibility**, **efficiency**, and **user experience**  
-- Creating impactful software solutions that blend **performance**, **scalability**, and **intuitive design**
+I enjoy solving **real-world problems** through technology and building products that improve **accessibility**, **efficiency**, and **user experience**.  
+
+My goal is to create impactful software solutions that combine **performance**, **scalability**, and **intuitive design**, especially for users in emerging markets like Bangladesh.
 
 ---
 
-## 🏆 Recent Work
+## 💼 Recent Work
 
-### Pharmacy Management System (Bangladesh)
+### Pharmacy Management System – Bangladesh
 
-A **Pharmacy Management System** designed for Bangladesh’s **25,000+ pharmacies** still operating on paper.
+I recently shipped a **Pharmacy Management System** designed for Bangladesh’s **25,000+ pharmacies** that still operate on paper.
 
-**Key features:**
+**Key Features**
 
-- Color-coded **dues aging system** inspired by **TallyKhata UX**  
+- Color-coded **dues aging system** inspired by **TallyKhata** UX  
 - Real-time **inventory** and **sales dashboard**  
-- **JWT-based authentication** with **role-based access control**
+- **JWT-based authentication** with **role-based access control**  
 
-**Tech stack:**  
-`React 19` `Vite` `Node.js` `FastAPI` `MongoDB` `Tailwind CSS`
+**Tech Stack**
+
+- React 19  
+- Vite  
+- Node.js  
+- FastAPI  
+- MongoDB  
+- Tailwind CSS  
+
+---
+
+## 🌟 Open to Remote Opportunities
+
+I’m actively seeking **remote positions** where I can contribute my expertise in building **impactful web applications** and **AI-driven solutions**.
+
+- 📍 Location: Dhaka, Bangladesh  
+- 💼 Roles: Full Stack Developer, Frontend Developer, AI Engineer  
 
 ---
 
 ## 💼 Experience
 
-**Frontend Developer**  
-**Innofast Technologies Ltd** · Dhaka, Bangladesh  
-- Developing **mobile-first platforms** and **AI-driven web applications**  
+**Frontend Developer – Innofast Technologies Ltd.**  
+Dhaka, Bangladesh  
+
+- Building **mobile-first platforms** and **AI-driven applications** for emerging markets  
 - Implementing **responsive UI/UX**, localization, and **Bengali language support**  
-- Building **digital transformation solutions** for traditional and growing businesses
+- Contributing to **digital transformation** projects for traditional and growing businesses  
 
 ---
 
-## 🌍 Focus Areas
+## 📬 Contact
 
-- **Full-stack application development** with React.js, Node.js, FastAPI, and MongoDB  
-- **AI and automation solutions** using Python  
-- **REST API design**, backend architecture, and **scalable system development**  
-- **Mobile-first** and responsive UI/UX implementation  
-- **Localization** and Bengali language support for regional users  
-- **Digital transformation** solutions for traditional and growing businesses
+You can add your links here, for example:
 
----
-
-## 📬 Let’s Connect
-
-I’m actively seeking **remote positions** where I can contribute my expertise in building impactful web applications.
-
-- 📍 **Location:** Dhaka, Bangladesh  
-- 💼 **Open to:** Remote full-time / contract roles  
-- ✉️ **Contact:** [Add your email / LinkedIn / Portfolio link here]
+- ✉️ Email: `your-email@example.com`  
+- 🔗 LinkedIn: `[Your LinkedIn Profile]`  
+- 🌐 Portfolio: `[Your Portfolio / Website]`  
 
 <div align="center">
 
-⭐ If you like my work, feel free to explore my repositories or reach out for collaborations.
+⭐ If you find my work interesting, feel free to explore my repositories or reach out for collaboration.
 
 </div>
