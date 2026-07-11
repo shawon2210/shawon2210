@@ -132,11 +132,9 @@ Dhaka, Bangladesh
 
 ## 📬 Contact
 
-You can add your links here, for example:
-
-- ✉️ Email: `shawonshanto104141@gmail.com`  
-- 🔗 LinkedIn: `https://www.linkedin.com/in/md-shawon-molla-2a3877293`  
-- 🌐 Portfolio: `oddboundary.lovable.app`  
+- ✉️ Email: [shawonshanto104141@gmail.com](mailto:shawonshanto104141@gmail.com)  
+- 🔗 LinkedIn: [Md Shawon Molla](https://www.linkedin.com/in/md-shawon-molla-2a3877293)  
+- 🌐 Portfolio: [oddboundary.lovable.app](https://oddboundary.lovable.app) 
 
 <div align="center">
 
